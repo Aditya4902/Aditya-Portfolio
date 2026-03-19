@@ -1,9 +1,4 @@
-/* =====================================================
-   Aditya Kumar Shah — Portfolio
-   Author  : Aditya Kumar Shah | github.com/Aditya4902
-   File    : js/animations.js
-   Desc    : Scroll reveal, stat counters, 3D card tilt
-   ===================================================== */
+
 
 'use strict';
 
