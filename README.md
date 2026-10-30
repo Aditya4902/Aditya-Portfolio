@@ -45,7 +45,7 @@ portfolio/
 ### ShopMetrics — Data Analytics Dashboard
 - 128,000+ e-commerce orders analysed
 - Python · Pandas · NumPy · MySQL · SQL Window Functions · Chart.js
-- Live → https://Aditya4902.github.io/shopmetrics/
+- Live → https://aditya4902.github.io/SHOPMETRICS/
 - Repo → https://github.com/Aditya4902/shopmetrics
 
 ### LUXE Fashion Store — Full Stack E-Commerce
